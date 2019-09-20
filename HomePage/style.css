@@ -1,0 +1,61 @@
+body {
+  background-color: #98DFAF;
+  color: #682D63;
+  font-family: 'Abel', sans-serif;
+}
+
+h1 {
+  margin-left: 20%;
+  font-family: 'Turret Road', cursive;
+  display: inline;
+}
+
+h2, h3 {
+  margin-left: 40%;
+  font-family: 'Turret Road', cursive;
+}
+
+hr {
+  clear: both;
+}
+
+#profile {
+  width: 15%;
+  float: left;
+  margin-left: 10%;
+}
+
+#github {
+  display: inline;
+  float: right;
+  background-color: lightblue;
+  padding: 1rem;
+}
+
+.bio {
+  margin-left: 35%;
+  margin-right: 20%;
+}
+
+.links {
+  clear: both;
+}
+
+a {
+  text-decoration: none;
+  color: #DB162F;
+  transition-duration: 0.3s;
+}
+
+a:visited {
+  color: #F42069;
+}
+
+a:hover {
+  transition-duration: 0.3s;
+  color: #4B3F72;
+}
+
+a:active {
+  color: #1F2041;
+}
